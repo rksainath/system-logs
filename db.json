@@ -1,0 +1,59 @@
+{
+  "logs": [
+    {
+      "message": "Monitor replaced",
+      "attention": false,
+      "tech": "Jason Borne",
+      "date": "2021-01-09T07:25:41.444Z",
+      "id": 1
+    },
+    {
+      "message": "SMPS needs to be changed",
+      "attention": true,
+      "tech": "Will Smith",
+      "date": "2021-01-09T07:29:56.188Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "Test message",
+      "attention": false,
+      "tech": "Guru Moorthy",
+      "date": "2021-01-12T08:25:39.131Z"
+    },
+    {
+      "id": 4,
+      "message": "Fixed small issue",
+      "attention": true,
+      "tech": "Ramesh Srinivasan",
+      "date": "2021-01-12T08:26:21.089Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Jason",
+      "lastName": "Borne"
+    },
+    {
+      "id": 2,
+      "firstName": "Will",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Quentin",
+      "lastName": "Tarantino"
+    },
+    {
+      "firstName": "Ramesh",
+      "lastName": "Srinivasan",
+      "id": 4
+    },
+    {
+      "firstName": "Guru",
+      "lastName": "Moorthy",
+      "id": 5
+    }
+  ]
+}
